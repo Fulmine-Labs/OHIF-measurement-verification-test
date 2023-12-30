@@ -1,11 +1,13 @@
-selenium
-lorem_text
+import os
+selenium 
+math
 pygetwindow
 random
 time
-threading
 keyboard
-psutil 
 logging
-matplotlib
 datetime
+time
+cv2
+numpy
+pytest
