@@ -65,13 +65,16 @@ If successful the running test should look something like this:
 ## Testing
 
 This code was run in Jupyter Notebook and Jupyter Lab from Anaconda 2.5.1 on Windows 11. 
+
 The test was run from a Jupyter Lab session in Brave 1.61.104 and the target was Chrome Version 120.0.6099.110 (Official Build) (64-bit)
+
 OHIF Worklist, Basic Viewer from https://viewer.ohif.org/, version 3.7.0.
+
 The screen resolutions tested were:
-1440 x 900 OK
-1280 x 960 OK
-1280 x 768 NOK
-Below this, mouse movements may be too large for the image. They can be tweaked as parameters in the second cell.
+* 1440 x 900 OK
+* 1280 x 960 OK
+* 1280 x 768 NOK
+Below this resolution, mouse movements may be too large for the image. They can be tweaked as parameters in the second cell.
 
 ## Known issues
 - Only the length measurement is currently supported. Support could be added for additional measurements following a similar methodology.
@@ -84,7 +87,7 @@ Below this, mouse movements may be too large for the image. They can be tweaked 
 ## Acknowledgements
 
 * This code was written collaboratively with GPT-4V. Thank you Assistant!
-* The Open Health Imaging Foundation ([(unit and end-to-end)](https://docs.ohif.org/development/testing))
+* The Open Health Imaging Foundation [(unit and end-to-end)](https://docs.ohif.org/development/testing)
 
 ## License
 
