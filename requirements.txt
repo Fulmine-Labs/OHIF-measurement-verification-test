@@ -1,0 +1,11 @@
+selenium
+lorem_text
+pygetwindow
+random
+time
+threading
+keyboard
+psutil 
+logging
+matplotlib
+datetime
